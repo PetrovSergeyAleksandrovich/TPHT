@@ -1,0 +1,1202 @@
+The system is: Windows - 10.0.14393 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30037/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.29.30040.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30037/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.29.30040.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_3175b\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_3175b.dir\build.make /nologo -L                  CMakeFiles\cmTC_3175b.dir\build
+Building C object CMakeFiles/cmTC_3175b.dir/CMakeCCompilerABI.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_3175b.dir\CMakeCCompilerABI.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmBB65.tmp
+Linking C executable cmTC_3175b.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_3175b.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_3175b.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmBCCE.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_2203d\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_2203d.dir\build.make /nologo -L                  CMakeFiles\cmTC_2203d.dir\build
+Building CXX object CMakeFiles/cmTC_2203d.dir/CMakeCXXCompilerABI.cpp.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_2203d.dir\CMakeCXXCompilerABI.cpp.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmC662.tmp
+Linking CXX executable cmTC_2203d.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_2203d.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_2203d.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmC73E.tmp
+
+
+
+Determining if the function getch exists in the ws2_32; passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_85ded\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_85ded.dir\build.make /nologo -L                  CMakeFiles\cmTC_85ded.dir\build
+Building C object CMakeFiles/cmTC_85ded.dir/CheckFunctionExists.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_85ded.dir\CheckFunctionExists.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm318A.tmp
+Linking C executable cmTC_85ded.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_85ded.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_85ded.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm31E9.tmp
+
+
+
+Determining if the function getch exists in the winmm;ws2_32 passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_031d9\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_031d9.dir\build.make /nologo -L                  CMakeFiles\cmTC_031d9.dir\build
+Building C object CMakeFiles/cmTC_031d9.dir/CheckFunctionExists.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_031d9.dir\CheckFunctionExists.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm33DC.tmp
+Linking C executable cmTC_031d9.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_031d9.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_031d9.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm343B.tmp
+
+
+
+Determining if files ;windows.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_6c69c\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_6c69c.dir\build.make /nologo -L                  CMakeFiles\cmTC_6c69c.dir\build
+Building C object CMakeFiles/cmTC_6c69c.dir/HAVE_WINDOWS_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_6c69c.dir\HAVE_WINDOWS_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm89A5.tmp
+Linking C executable cmTC_6c69c.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_6c69c.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_6c69c.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm8B3C.tmp
+
+
+
+Determining if files windows.h;winsock.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_a4eef\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_a4eef.dir\build.make /nologo -L                  CMakeFiles\cmTC_a4eef.dir\build
+Building C object CMakeFiles/cmTC_a4eef.dir/HAVE_WINSOCK_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_a4eef.dir\HAVE_WINSOCK_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm8D3E.tmp
+Linking C executable cmTC_a4eef.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_a4eef.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_a4eef.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm8EF5.tmp
+
+
+
+Determining if files windows.h;winsock.h;ws2tcpip.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_e0fef\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_e0fef.dir\build.make /nologo -L                  CMakeFiles\cmTC_e0fef.dir\build
+Building C object CMakeFiles/cmTC_e0fef.dir/HAVE_WS2TCPIP_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_e0fef.dir\HAVE_WS2TCPIP_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm9136.tmp
+Linking C executable cmTC_e0fef.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_e0fef.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_e0fef.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm92CD.tmp
+
+
+
+Determining if files windows.h;winsock.h;ws2tcpip.h;winsock2.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_e4764\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_e4764.dir\build.make /nologo -L                  CMakeFiles\cmTC_e4764.dir\build
+Building C object CMakeFiles/cmTC_e4764.dir/HAVE_WINSOCK2_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_e4764.dir\HAVE_WINSOCK2_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm94E0.tmp
+Linking C executable cmTC_e4764.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_e4764.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_e4764.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm9686.tmp
+
+
+
+Determining if files windows.h;winsock.h;ws2tcpip.h;winsock2.h;stdio.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_54003\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_54003.dir\build.make /nologo -L                  CMakeFiles\cmTC_54003.dir\build
+Building C object CMakeFiles/cmTC_54003.dir/HAVE_STDIO_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_54003.dir\HAVE_STDIO_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm9899.tmp
+Linking C executable cmTC_54003.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_54003.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_54003.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm9A5F.tmp
+
+
+
+Determining if files windows.h;winsock.h;ws2tcpip.h;winsock2.h;stdio.h;sys/stat.h;sys/types.h;sys/utime.h;assert.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_3cc4f\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_3cc4f.dir\build.make /nologo -L                  CMakeFiles\cmTC_3cc4f.dir\build
+Building C object CMakeFiles/cmTC_3cc4f.dir/HAVE_ASSERT_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_3cc4f.dir\HAVE_ASSERT_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmAC01.tmp
+Linking C executable cmTC_3cc4f.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_3cc4f.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_3cc4f.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmADF6.tmp
+
+
+
+Determining if files windows.h;winsock.h;ws2tcpip.h;winsock2.h;stdio.h;sys/stat.h;sys/types.h;sys/utime.h;assert.h;errno.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_a101b\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_a101b.dir\build.make /nologo -L                  CMakeFiles\cmTC_a101b.dir\build
+Building C object CMakeFiles/cmTC_a101b.dir/HAVE_ERRNO_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_a101b.dir\HAVE_ERRNO_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmB6B0.tmp
+Linking C executable cmTC_a101b.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_a101b.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_a101b.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmB866.tmp
+
+
+
+Determining if files windows.h;winsock.h;ws2tcpip.h;winsock2.h;stdio.h;sys/stat.h;sys/types.h;sys/utime.h;assert.h;errno.h;fcntl.h;io.h;locale.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_bdc42\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_bdc42.dir\build.make /nologo -L                  CMakeFiles\cmTC_bdc42.dir\build
+Building C object CMakeFiles/cmTC_bdc42.dir/HAVE_LOCALE_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_bdc42.dir\HAVE_LOCALE_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmC304.tmp
+Linking C executable cmTC_bdc42.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_bdc42.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_bdc42.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmC4AB.tmp
+
+
+
+Determining if files ;windows.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_d4b1d\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_d4b1d.dir\build.make /nologo -L                  CMakeFiles\cmTC_d4b1d.dir\build
+Building C object CMakeFiles/cmTC_d4b1d.dir/HAVE_WINDOWS_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_d4b1d.dir\HAVE_WINDOWS_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmEE4A.tmp
+Linking C executable cmTC_d4b1d.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_d4b1d.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_d4b1d.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmF030.tmp
+
+
+
+Determining if files windows.h;winsock.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_49b7f\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_49b7f.dir\build.make /nologo -L                  CMakeFiles\cmTC_49b7f.dir\build
+Building C object CMakeFiles/cmTC_49b7f.dir/HAVE_WINSOCK_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_49b7f.dir\HAVE_WINSOCK_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmF232.tmp
+Linking C executable cmTC_49b7f.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_49b7f.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_49b7f.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmF3C9.tmp
+
+
+
+Determining if files ;windows.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_221b5\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_221b5.dir\build.make /nologo -L                  CMakeFiles\cmTC_221b5.dir\build
+Building C object CMakeFiles/cmTC_221b5.dir/HAVE_WINDOWS_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_221b5.dir\HAVE_WINDOWS_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmBF4.tmp
+Linking C executable cmTC_221b5.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_221b5.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_221b5.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmD9B.tmp
+
+
+
+Determining if files windows.h;winsock.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_b3000\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_b3000.dir\build.make /nologo -L                  CMakeFiles\cmTC_b3000.dir\build
+Building C object CMakeFiles/cmTC_b3000.dir/HAVE_WINSOCK_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_b3000.dir\HAVE_WINSOCK_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmF8E.tmp
+Linking C executable cmTC_b3000.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_b3000.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_b3000.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm1125.tmp
+
+
+
+Determining if files ;windows.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_03749\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_03749.dir\build.make /nologo -L                  CMakeFiles\cmTC_03749.dir\build
+Building C object CMakeFiles/cmTC_03749.dir/HAVE_WINDOWS_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_03749.dir\HAVE_WINDOWS_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm4D33.tmp
+Linking C executable cmTC_03749.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_03749.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_03749.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm4EDA.tmp
+
+
+
+Determining if files windows.h;winsock.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_02aa3\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_02aa3.dir\build.make /nologo -L                  CMakeFiles\cmTC_02aa3.dir\build
+Building C object CMakeFiles/cmTC_02aa3.dir/HAVE_WINSOCK_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_02aa3.dir\HAVE_WINSOCK_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm510B.tmp
+Linking C executable cmTC_02aa3.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_02aa3.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_02aa3.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm52C2.tmp
+
+
+
+Determining if files ;windows.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_b297e\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_b297e.dir\build.make /nologo -L                  CMakeFiles\cmTC_b297e.dir\build
+Building C object CMakeFiles/cmTC_b297e.dir/HAVE_WINDOWS_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_b297e.dir\HAVE_WINDOWS_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmA74A.tmp
+Linking C executable cmTC_b297e.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_b297e.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_b297e.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmA900.tmp
+
+
+
+Determining if files windows.h;winsock.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_a51e6\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_a51e6.dir\build.make /nologo -L                  CMakeFiles\cmTC_a51e6.dir\build
+Building C object CMakeFiles/cmTC_a51e6.dir/HAVE_WINSOCK_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_a51e6.dir\HAVE_WINSOCK_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmAB12.tmp
+Linking C executable cmTC_a51e6.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_a51e6.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_a51e6.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmACAA.tmp
+
+
+
+Determining if files windows.h;winsock.h;ws2tcpip.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_36df3\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_36df3.dir\build.make /nologo -L                  CMakeFiles\cmTC_36df3.dir\build
+Building C object CMakeFiles/cmTC_36df3.dir/HAVE_WS2TCPIP_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_36df3.dir\HAVE_WS2TCPIP_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmAEBC.tmp
+Linking C executable cmTC_36df3.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_36df3.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_36df3.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmB082.tmp
+
+
+
+Determining if files windows.h;winsock.h;ws2tcpip.h;winsock2.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_76b13\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_76b13.dir\build.make /nologo -L                  CMakeFiles\cmTC_76b13.dir\build
+Building C object CMakeFiles/cmTC_76b13.dir/HAVE_WINSOCK2_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_76b13.dir\HAVE_WINSOCK2_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmB330.tmp
+Linking C executable cmTC_76b13.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_76b13.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_76b13.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmB4E7.tmp
+
+
+
+Determining if files windows.h;winsock.h;ws2tcpip.h;winsock2.h;stdio.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_63c22\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_63c22.dir\build.make /nologo -L                  CMakeFiles\cmTC_63c22.dir\build
+Building C object CMakeFiles/cmTC_63c22.dir/HAVE_STDIO_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_63c22.dir\HAVE_STDIO_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmB6EA.tmp
+Linking C executable cmTC_63c22.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_63c22.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_63c22.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmB890.tmp
+
+
+
+Determining if files windows.h;winsock.h;ws2tcpip.h;winsock2.h;stdio.h;sys/stat.h;sys/types.h;sys/utime.h;assert.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_90feb\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_90feb.dir\build.make /nologo -L                  CMakeFiles\cmTC_90feb.dir\build
+Building C object CMakeFiles/cmTC_90feb.dir/HAVE_ASSERT_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_90feb.dir\HAVE_ASSERT_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmC949.tmp
+Linking C executable cmTC_90feb.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_90feb.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_90feb.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmCAFF.tmp
+
+
+
+Determining if files windows.h;winsock.h;ws2tcpip.h;winsock2.h;stdio.h;sys/stat.h;sys/types.h;sys/utime.h;assert.h;errno.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_d7853\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_d7853.dir\build.make /nologo -L                  CMakeFiles\cmTC_d7853.dir\build
+Building C object CMakeFiles/cmTC_d7853.dir/HAVE_ERRNO_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_d7853.dir\HAVE_ERRNO_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmD34B.tmp
+Linking C executable cmTC_d7853.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_d7853.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_d7853.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmD4E2.tmp
+
+
+
+Determining if files windows.h;winsock.h;ws2tcpip.h;winsock2.h;stdio.h;sys/stat.h;sys/types.h;sys/utime.h;assert.h;errno.h;fcntl.h;io.h;locale.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_9371c\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_9371c.dir\build.make /nologo -L                  CMakeFiles\cmTC_9371c.dir\build
+Building C object CMakeFiles/cmTC_9371c.dir/HAVE_LOCALE_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_9371c.dir\HAVE_LOCALE_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmDF42.tmp
+Linking C executable cmTC_9371c.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_9371c.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_9371c.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmE0E9.tmp
+
+
+
+Determining if files windows.h;winsock.h;ws2tcpip.h;winsock2.h;stdio.h;sys/stat.h;sys/types.h;sys/utime.h;assert.h;errno.h;fcntl.h;io.h;locale.h;setjmp.h;signal.h;stdbool.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_3eb56\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_3eb56.dir\build.make /nologo -L                  CMakeFiles\cmTC_3eb56.dir\build
+Building C object CMakeFiles/cmTC_3eb56.dir/HAVE_STDBOOL_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_3eb56.dir\HAVE_STDBOOL_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmED9A.tmp
+Linking C executable cmTC_3eb56.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_3eb56.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_3eb56.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmEF50.tmp
+
+
+
+Determining if files windows.h;winsock.h;ws2tcpip.h;winsock2.h;stdio.h;sys/stat.h;sys/types.h;sys/utime.h;assert.h;errno.h;fcntl.h;io.h;locale.h;setjmp.h;signal.h;stdbool.h;stdio.h;stdlib.h;string.h;time.h;process.h;stddef.h exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_9c37d\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_9c37d.dir\build.make /nologo -L                  CMakeFiles\cmTC_9c37d.dir\build
+Building C object CMakeFiles/cmTC_9c37d.dir/HAVE_STDDEF_H.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_9c37d.dir\HAVE_STDDEF_H.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmF385.tmp
+Linking C executable cmTC_9c37d.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_9c37d.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_9c37d.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmF54B.tmp
+
+
+
+Determining size of size_t passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_450cb\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_450cb.dir\build.make /nologo -L                  CMakeFiles\cmTC_450cb.dir\build
+Building C object CMakeFiles/cmTC_450cb.dir/SIZEOF_SIZE_T.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_450cb.dir\SIZEOF_SIZE_T.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmF971.tmp
+Linking C executable cmTC_450cb.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_450cb.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_450cb.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmF9D0.tmp
+
+
+
+Determining size of long long passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_540bb\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_540bb.dir\build.make /nologo -L                  CMakeFiles\cmTC_540bb.dir\build
+Building C object CMakeFiles/cmTC_540bb.dir/SIZEOF_LONG_LONG.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_540bb.dir\SIZEOF_LONG_LONG.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmFCFB.tmp
+Linking C executable cmTC_540bb.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_540bb.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_540bb.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmFD5A.tmp
+
+
+
+Determining size of long passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_2ef25\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_2ef25.dir\build.make /nologo -L                  CMakeFiles\cmTC_2ef25.dir\build
+Building C object CMakeFiles/cmTC_2ef25.dir/SIZEOF_LONG.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_2ef25.dir\SIZEOF_LONG.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmFF7C.tmp
+Linking C executable cmTC_2ef25.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_2ef25.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_2ef25.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmFFDA.tmp
+
+
+
+Determining size of short passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_f5bdf\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_f5bdf.dir\build.make /nologo -L                  CMakeFiles\cmTC_f5bdf.dir\build
+Building C object CMakeFiles/cmTC_f5bdf.dir/SIZEOF_SHORT.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_f5bdf.dir\SIZEOF_SHORT.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm1ED.tmp
+Linking C executable cmTC_f5bdf.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_f5bdf.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_f5bdf.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm25B.tmp
+
+
+
+Determining size of int passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_25ff4\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_25ff4.dir\build.make /nologo -L                  CMakeFiles\cmTC_25ff4.dir\build
+Building C object CMakeFiles/cmTC_25ff4.dir/SIZEOF_INT.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_25ff4.dir\SIZEOF_INT.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm46D.tmp
+Linking C executable cmTC_25ff4.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_25ff4.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_25ff4.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm4CC.tmp
+
+
+
+Determining size of __int64 passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_272df\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_272df.dir\build.make /nologo -L                  CMakeFiles\cmTC_272df.dir\build
+Building C object CMakeFiles/cmTC_272df.dir/SIZEOF___INT64.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_272df.dir\SIZEOF___INT64.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm76B.tmp
+Linking C executable cmTC_272df.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_272df.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_272df.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm7CA.tmp
+
+
+
+Determining size of time_t passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_31434\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_31434.dir\build.make /nologo -L                  CMakeFiles\cmTC_31434.dir\build
+Building C object CMakeFiles/cmTC_31434.dir/SIZEOF_TIME_T.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_31434.dir\SIZEOF_TIME_T.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nmA1A.tmp
+Linking C executable cmTC_31434.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_31434.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_31434.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nmA89.tmp
+
+
+
+Determining if the gethostbyname exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_b89b6\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_b89b6.dir\build.make /nologo -L                  CMakeFiles\cmTC_b89b6.dir\build
+Building C object CMakeFiles/cmTC_b89b6.dir/CheckSymbolExists.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_b89b6.dir\CheckSymbolExists.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm17C6.tmp
+Linking C executable cmTC_b89b6.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_b89b6.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_b89b6.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm199C.tmp
+
+
+File C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <winsock.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef gethostbyname
+  return ((int*)(&gethostbyname))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the strtoll exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_af17a\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_af17a.dir\build.make /nologo -L                  CMakeFiles\cmTC_af17a.dir\build
+Building C object CMakeFiles/cmTC_af17a.dir/CheckSymbolExists.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_af17a.dir\CheckSymbolExists.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm1BCE.tmp
+Linking C executable cmTC_af17a.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_af17a.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_af17a.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm1D94.tmp
+
+
+File C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <winsock.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strtoll
+  return ((int*)(&strtoll))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the _strtoi64 exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_99b90\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_99b90.dir\build.make /nologo -L                  CMakeFiles\cmTC_99b90.dir\build
+Building C object CMakeFiles/cmTC_99b90.dir/CheckSymbolExists.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_99b90.dir\CheckSymbolExists.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm1FB6.tmp
+Linking C executable cmTC_99b90.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_99b90.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_99b90.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm217C.tmp
+
+
+File C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <winsock.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef _strtoi64
+  return ((int*)(&_strtoi64))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the freeaddrinfo exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_b3f7a\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_b3f7a.dir\build.make /nologo -L                  CMakeFiles\cmTC_b3f7a.dir\build
+Building C object CMakeFiles/cmTC_b3f7a.dir/CheckSymbolExists.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_b3f7a.dir\CheckSymbolExists.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm2B5E.tmp
+Linking C executable cmTC_b3f7a.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_b3f7a.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_b3f7a.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm2D34.tmp
+
+
+File C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <winsock.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef freeaddrinfo
+  return ((int*)(&freeaddrinfo))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the getprotobyname exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_e62a1\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_e62a1.dir\build.make /nologo -L                  CMakeFiles\cmTC_e62a1.dir\build
+Building C object CMakeFiles/cmTC_e62a1.dir/CheckSymbolExists.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_e62a1.dir\CheckSymbolExists.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm35CE.tmp
+Linking C executable cmTC_e62a1.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_e62a1.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_e62a1.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm37A4.tmp
+
+
+File C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <winsock.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef getprotobyname
+  return ((int*)(&getprotobyname))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the getpeername exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_0d5c8\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_0d5c8.dir\build.make /nologo -L                  CMakeFiles\cmTC_0d5c8.dir\build
+Building C object CMakeFiles/cmTC_0d5c8.dir/CheckSymbolExists.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_0d5c8.dir\CheckSymbolExists.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm39B6.tmp
+Linking C executable cmTC_0d5c8.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_0d5c8.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_0d5c8.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm3B9B.tmp
+
+
+File C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <winsock.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef getpeername
+  return ((int*)(&getpeername))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the getsockname exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_66ea8\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_66ea8.dir\build.make /nologo -L                  CMakeFiles\cmTC_66ea8.dir\build
+Building C object CMakeFiles/cmTC_66ea8.dir/CheckSymbolExists.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_66ea8.dir\CheckSymbolExists.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm3DEC.tmp
+Linking C executable cmTC_66ea8.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_66ea8.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_66ea8.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm3FD1.tmp
+
+
+File C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <winsock.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef getsockname
+  return ((int*)(&getsockname))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the setlocale exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_b46c1\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_b46c1.dir\build.make /nologo -L                  CMakeFiles\cmTC_b46c1.dir\build
+Building C object CMakeFiles/cmTC_b46c1.dir/CheckSymbolExists.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_b46c1.dir\CheckSymbolExists.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm4697.tmp
+Linking C executable cmTC_b46c1.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_b46c1.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_b46c1.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm487C.tmp
+
+
+File C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <winsock.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef setlocale
+  return ((int*)(&setlocale))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the setmode exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_ac361\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_ac361.dir\build.make /nologo -L                  CMakeFiles\cmTC_ac361.dir\build
+Building C object CMakeFiles/cmTC_ac361.dir/CheckSymbolExists.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_ac361.dir\CheckSymbolExists.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm4ADD.tmp
+Linking C executable cmTC_ac361.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_ac361.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_ac361.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm4C93.tmp
+
+
+File C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <winsock.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef setmode
+  return ((int*)(&setmode))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the setsockopt exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_9808a\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_9808a.dir\build.make /nologo -L                  CMakeFiles\cmTC_9808a.dir\build
+Building C object CMakeFiles/cmTC_9808a.dir/CheckSymbolExists.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_9808a.dir\CheckSymbolExists.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm56A4.tmp
+Linking C executable cmTC_9808a.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_9808a.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_9808a.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm58A9.tmp
+
+
+File C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <winsock.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef setsockopt
+  return ((int*)(&setsockopt))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the inet_pton exist passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_3896d\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_3896d.dir\build.make /nologo -L                  CMakeFiles\cmTC_3896d.dir\build
+Building C object CMakeFiles/cmTC_3896d.dir/CheckSymbolExists.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_3896d.dir\CheckSymbolExists.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm5C90.tmp
+Linking C executable cmTC_3896d.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_3896d.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_3896d.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm5E56.tmp
+
+
+File C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <winsock.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef inet_pton
+  return ((int*)(&inet_pton))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Performing Curl Test HAVE_IOCTLSOCKET passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_975b2\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_975b2.dir\build.make /nologo -L                  CMakeFiles\cmTC_975b2.dir\build
+Building C object CMakeFiles/cmTC_975b2.dir/CurlTests.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_975b2.dir\CurlTests.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm63D3.tmp
+Linking C executable cmTC_975b2.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_975b2.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_975b2.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm64FD.tmp
+
+
+Performing Curl Test HAVE_IOCTLSOCKET_CAMEL_FIONBIO passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_054bd\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_054bd.dir\build.make /nologo -L                  CMakeFiles\cmTC_054bd.dir\build
+Building C object CMakeFiles/cmTC_054bd.dir/CurlTests.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_054bd.dir\CurlTests.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm6942.tmp
+Linking C executable cmTC_054bd.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_054bd.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_054bd.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm6A3D.tmp
+
+
+Performing Curl Test HAVE_IOCTLSOCKET_FIONBIO passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_6444b\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_6444b.dir\build.make /nologo -L                  CMakeFiles\cmTC_6444b.dir\build
+Building C object CMakeFiles/cmTC_6444b.dir/CurlTests.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_6444b.dir\CurlTests.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm6C3F.tmp
+Linking C executable cmTC_6444b.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_6444b.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_6444b.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm6D3A.tmp
+
+
+Performing Curl Test HAVE_BOOL_T passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_97f6d\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_97f6d.dir\build.make /nologo -L                  CMakeFiles\cmTC_97f6d.dir\build
+Building C object CMakeFiles/cmTC_97f6d.dir/CurlTests.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_97f6d.dir\CurlTests.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm7392.tmp
+Linking C executable cmTC_97f6d.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_97f6d.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_97f6d.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm7401.tmp
+
+
+Performing Curl Test HAVE_VARIADIC_MACROS_C99 passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_bc7db\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_bc7db.dir\build.make /nologo -L                  CMakeFiles\cmTC_bc7db.dir\build
+Building C object CMakeFiles/cmTC_bc7db.dir/CurlTests.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_bc7db.dir\CurlTests.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm76FD.tmp
+Linking C executable cmTC_bc7db.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_bc7db.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_bc7db.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm775C.tmp
+
+
+Determining size of off_t passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_eb123\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_eb123.dir\build.make /nologo -L                  CMakeFiles\cmTC_eb123.dir\build
+Building C object CMakeFiles/cmTC_eb123.dir/SIZEOF_OFF_T.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_eb123.dir\SIZEOF_OFF_T.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm7A49.tmp
+Linking C executable cmTC_eb123.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_eb123.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_eb123.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm7AB8.tmp
+
+
+
+Determining size of curl_off_t passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_2692d\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_2692d.dir\build.make /nologo -L                  CMakeFiles\cmTC_2692d.dir\build
+Building C object CMakeFiles/cmTC_2692d.dir/SIZEOF_CURL_OFF_T.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_2692d.dir\SIZEOF_CURL_OFF_T.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm7D47.tmp
+Linking C executable cmTC_2692d.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_2692d.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_2692d.dir\objects1.rsp @C:\Users\Poizone\AppData\Local\Temp\nm7DB5.tmp
+
+
+
+Performing C SOURCE FILE Test curl_cv_recv succeeded with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_84650\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_84650.dir\build.make /nologo -L                  CMakeFiles\cmTC_84650.dir\build
+Building C object CMakeFiles/cmTC_84650.dir/src.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_84650.dir\src.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm83A0.tmp
+Linking C static library cmTC_84650.lib
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -P CMakeFiles\cmTC_84650.dir\cmake_clean_target.cmake
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\lib.exe /nologo /machine:X86 /out:cmTC_84650.lib @CMakeFiles\cmTC_84650.dir\objects1.rsp
+
+
+Source file was:
+#undef inline
+#include <winsock2.h>
+#include <windows.h>
+#include <winsock.h>
+#ifndef WIN32_LEAN_AND_MEAN
+#define WIN32_LEAN_AND_MEAN
+#endif
+int main(void) {
+    recv(0, 0, 0, 0);
+    return 0;
+}
+Performing C SOURCE FILE Test curl_cv_func_recv_test succeeded with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_0ba25\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_0ba25.dir\build.make /nologo -L                  CMakeFiles\cmTC_0ba25.dir\build
+Building C object CMakeFiles/cmTC_0ba25.dir/src.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_0ba25.dir\src.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm8630.tmp
+Linking C static library cmTC_0ba25.lib
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -P CMakeFiles\cmTC_0ba25.dir\cmake_clean_target.cmake
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\lib.exe /nologo /machine:X86 /out:cmTC_0ba25.lib @CMakeFiles\cmTC_0ba25.dir\objects1.rsp
+
+
+Source file was:
+
+                  #undef inline
+#include <winsock2.h>
+#include <windows.h>
+#include <winsock.h>
+#ifndef WIN32_LEAN_AND_MEAN
+#define WIN32_LEAN_AND_MEAN
+#endif
+                  extern int PASCAL
+                  recv(SOCKET, char *, int, int);
+                  int main(void) {
+                    SOCKET s=0;
+                    char * buf=0;
+                    int len=0;
+                    int flags=0;
+                    int res = recv(s, buf, len, flags);
+                    (void) res;
+                    return 0;
+                  }
+Performing C SOURCE FILE Test curl_cv_send succeeded with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_5828e\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_5828e.dir\build.make /nologo -L                  CMakeFiles\cmTC_5828e.dir\build
+Building C object CMakeFiles/cmTC_5828e.dir/src.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_5828e.dir\src.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm8882.tmp
+Linking C static library cmTC_5828e.lib
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -P CMakeFiles\cmTC_5828e.dir\cmake_clean_target.cmake
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\lib.exe /nologo /machine:X86 /out:cmTC_5828e.lib @CMakeFiles\cmTC_5828e.dir\objects1.rsp
+
+
+Source file was:
+#undef inline
+#include <winsock2.h>
+#include <windows.h>
+#include <winsock.h>
+#ifndef WIN32_LEAN_AND_MEAN
+#define WIN32_LEAN_AND_MEAN
+#endif
+int main(void) {
+    send(0, 0, 0, 0);
+    return 0;
+}
+Performing C SOURCE FILE Test curl_cv_func_send_test succeeded with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_68729\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_68729.dir\build.make /nologo -L                  CMakeFiles\cmTC_68729.dir\build
+Building C object CMakeFiles/cmTC_68729.dir/src.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_68729.dir\src.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm8AE3.tmp
+Linking C static library cmTC_68729.lib
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -P CMakeFiles\cmTC_68729.dir\cmake_clean_target.cmake
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\lib.exe /nologo /machine:X86 /out:cmTC_68729.lib @CMakeFiles\cmTC_68729.dir\objects1.rsp
+
+
+Source file was:
+
+                  #undef inline
+#include <winsock2.h>
+#include <windows.h>
+#include <winsock.h>
+#ifndef WIN32_LEAN_AND_MEAN
+#define WIN32_LEAN_AND_MEAN
+#endif
+                  extern int PASCAL
+                  send(SOCKET, const char *, int, int);
+                  int main(void) {
+                    SOCKET s=0;
+                    const char * buf=0;
+                    int len=0;
+                    int flags=0;
+                    int res = send(s, buf, len, flags);
+                    (void) res;
+                    return 0;
+                  }
+Performing C SOURCE FILE Test HAVE_STRUCT_TIMEVAL succeeded with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_38582\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_38582.dir\build.make /nologo -L                  CMakeFiles\cmTC_38582.dir\build
+Building C object CMakeFiles/cmTC_38582.dir/src.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_38582.dir\src.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm8F87.tmp
+Linking C static library cmTC_38582.lib
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -P CMakeFiles\cmTC_38582.dir\cmake_clean_target.cmake
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\lib.exe /nologo /machine:X86 /out:cmTC_38582.lib @CMakeFiles\cmTC_38582.dir\objects1.rsp
+
+
+Source file was:
+#undef inline
+#include <winsock2.h>
+#include <windows.h>
+#include <winsock.h>
+#ifndef WIN32_LEAN_AND_MEAN
+#define WIN32_LEAN_AND_MEAN
+#endif
+int main(void) {
+  struct timeval ts;
+  ts.tv_sec  = 0;
+  ts.tv_usec = 0;
+  (void)ts;
+  return 0;
+}
+Determining size of sig_atomic_t passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_853df\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_853df.dir\build.make /nologo -L                  CMakeFiles\cmTC_853df.dir\build
+Building C object CMakeFiles/cmTC_853df.dir/SIZEOF_SIG_ATOMIC_T.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_853df.dir\SIZEOF_SIG_ATOMIC_T.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm91D8.tmp
+Linking C static library cmTC_853df.lib
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -P CMakeFiles\cmTC_853df.dir\cmake_clean_target.cmake
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\lib.exe /nologo /machine:X86 /out:cmTC_853df.lib @CMakeFiles\cmTC_853df.dir\objects1.rsp
+
+
+
+Performing C SOURCE FILE Test HAVE_SIG_ATOMIC_T_NOT_VOLATILE succeeded with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_d9d82\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_d9d82.dir\build.make /nologo -L                  CMakeFiles\cmTC_d9d82.dir\build
+Building C object CMakeFiles/cmTC_d9d82.dir/src.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_d9d82.dir\src.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm9301.tmp
+Linking C static library cmTC_d9d82.lib
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -P CMakeFiles\cmTC_d9d82.dir\cmake_clean_target.cmake
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\lib.exe /nologo /machine:X86 /out:cmTC_d9d82.lib @CMakeFiles\cmTC_d9d82.dir\objects1.rsp
+
+
+Source file was:
+
+    #ifdef HAVE_SIGNAL_H
+    #  include <signal.h>
+    #endif
+    int main(void) {
+      static volatile sig_atomic_t dummy = 0;
+      (void)dummy;
+      return 0;
+    }
+Determining size of struct sockaddr_storage passed with the following output:
+Change Dir: C:/Users/Poizone/CLionProjects/TPHT/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_bd4ed\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_bd4ed.dir\build.make /nologo -L                  CMakeFiles\cmTC_bd4ed.dir\build
+Building C object CMakeFiles/cmTC_bd4ed.dir/SIZEOF_STRUCT_SOCKADDR_STORAGE.c.obj
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_bd4ed.dir\SIZEOF_STRUCT_SOCKADDR_STORAGE.c.obj.d --working-dir=C:\Users\Poizone\CLionProjects\TPHT\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\Poizone\AppData\Local\Temp\nm941B.tmp
+Linking C static library cmTC_bd4ed.lib
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -P CMakeFiles\cmTC_bd4ed.dir\cmake_clean_target.cmake
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\lib.exe /nologo /machine:X86 /out:cmTC_bd4ed.lib @CMakeFiles\cmTC_bd4ed.dir\objects1.rsp
+
+
+
